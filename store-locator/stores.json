@@ -1,0 +1,93 @@
+[
+    {
+        "name": "100Plan",
+        "address": "Barrio Altos del Casco 215",
+        "city": "Z\u00e1rate",
+        "province": "Buenos Aires",
+        "country": "Argentina",
+        "phone": "+54 9 11 6956 6720",
+        "phone_secundario": "",
+        "email": "100plan@maxirest.com",
+        "cobertura": "Z\u00e1rate \u2013 Campana \u2013 San Nicol\u00e1s",
+        "lat": -34.1315833,
+        "lng": -59.0902249
+    },
+    {
+        "name": "Bahia Compu",
+        "address": "Parera 1347, bah\u00eda blanca",
+        "city": "Bah\u00eda Blanca",
+        "province": "Buenos Aires",
+        "country": "Argentina",
+        "phone": "0291 4794795",
+        "phone_secundario": "",
+        "email": "bahiacompu@maxirest.com",
+        "cobertura": "Bahia Blanca y alrededores",
+        "lat": -38.724157,
+        "lng": -62.2338183
+    },
+    {
+        "name": "DAEC Electr\u00f3nica",
+        "address": "Avenida Espora 1295",
+        "city": "Tandil",
+        "province": "Buenos Aires",
+        "country": "Argentina",
+        "phone": "0249 4583514",
+        "phone_secundario": "",
+        "email": "daec@maxirest.com",
+        "cobertura": "Tandil y Olavarr\u00eda",
+        "lat": -37.3129963,
+        "lng": -59.1153298
+    },
+    {
+        "name": "LJS Informatica",
+        "address": "Derqui 168",
+        "city": "Trenque Lauquen",
+        "province": "Buenos Aires",
+        "country": "Argentina",
+        "phone": "02392 512109",
+        "phone_secundario": "",
+        "email": "ljsinformatica@maxirest.com",
+        "cobertura": "Trenque Lauquen Pehuajo, Casares, America, Villegas, Pellegrini, Tres Lomas, Saliquelo, Casbas",
+        "lat": -35.9675656,
+        "lng": -62.7333184
+    },
+    {
+        "name": "Vinderman Tecnolog\u00eda Inform\u00e1tica",
+        "address": "Rep\u00fablica 845",
+        "city": "San Fernando del Valle de Catamarca",
+        "province": "Catamarca",
+        "country": "Argentina",
+        "phone": "383 4083350",
+        "phone_secundario": "",
+        "email": "vindermantecno@maxirest.com",
+        "cobertura": "Provincia de Catamarca",
+        "lat": -28.4680008,
+        "lng": -65.7747543
+    },
+    {
+        "name": "STI Chaco",
+        "address": "Posadas 131",
+        "city": "Resistencia",
+        "province": "Chaco",
+        "country": "Argentina",
+        "phone": "362 4548384",
+        "phone_secundario": "",
+        "email": "stichaco@maxirest.com",
+        "cobertura": "Resistencia y alrededores",
+        "lat": -27.4453274,
+        "lng": -58.9906562
+    },
+    {
+        "name": "AG computacion",
+        "address": "Rivadavia 1224, Pinamar",
+        "city": "Pinamar",
+        "province": "Buenos Aires",
+        "country": "Argentina",
+        "phone": "02254 401615",
+        "phone_secundario": "",
+        "email": "agcomputacion@maxirest.com",
+        "cobertura": "Pinamar, Villa Gesell , Gral. Madariaga y alrededores",
+        "lat": -37.1071642,
+        "lng": -56.8754922
+    }
+]

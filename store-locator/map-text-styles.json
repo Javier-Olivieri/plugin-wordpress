@@ -1,0 +1,81 @@
+{
+    "provinciaFilter": {
+        "color": "#ff8800",
+        "backgroundColor": "",
+        "fontSize": "",
+        "padding": ""
+    },
+    "storePopup": {
+        "backgroundColor": "#ffffff",
+        "color": "",
+        "fontFamily": "",
+        "fontSize": "",
+        "padding": "20px",
+        "borderRadius": "",
+        "closeButtonColor": "#333333",
+        "closeButtonBg": "transparent",
+        "closeButtonHoverColor": "#000000",
+        "closeButtonHoverBg": "#eeeeee"
+    },
+    "storeEntry": {
+        "border": "",
+        "padding": "",
+        "borderRadius": "",
+        "borderTop": "",
+        "borderRight": "",
+        "borderBottom": "",
+        "borderLeft": "",
+        "backgroundColor": ""
+    },
+    "storeName": {
+        "fontFamily": "",
+        "fontSize": "",
+        "color": "#c65353",
+        "fontWeight": ""
+    },
+    "storeCobertura": {
+        "fontFamily": "",
+        "fontSize": "",
+        "color": "#ff8800",
+        "fontWeight": ""
+    },
+    "storePhone": {
+        "fontFamily": "",
+        "fontSize": "",
+        "color": "#ff8800",
+        "fontWeight": ""
+    },
+    "storePhone2": {
+        "fontFamily": "",
+        "fontSize": "",
+        "color": "",
+        "fontWeight": ""
+    },
+    "storeEmail": {
+        "fontFamily": "",
+        "fontSize": "",
+        "color": "#ff8800",
+        "fontWeight": ""
+    },
+    "storeAddress": {
+        "fontFamily": "",
+        "fontSize": "",
+        "color": "#ff8800",
+        "fontWeight": ""
+    },
+    "storeInfoPanel": {
+        "backgroundColor": "#ffffff",
+        "border": "",
+        "padding": "10px",
+        "borderRadius": "",
+        "width": ""
+    },
+    "storeLocatorWrapper": {
+        "width": "1000px",
+        "height": ""
+    },
+    "storeMap": {
+        "width": "",
+        "height": ""
+    }
+}
