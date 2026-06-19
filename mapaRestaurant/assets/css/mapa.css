@@ -1,0 +1,28 @@
+
+
+.mac-tooltip {
+  display: none !important;
+}
+.mac-pin,
+.leaflet-interactive {
+  cursor: default !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.leaflet-popup-content-wrapper  {
+  display: none !important;
+}
+
+.leaflet-popup-tip-container {
+  display: none !important;
+}
+
+.leaflet-popup-close-button {
+  display: none !important;
+}
+
+
+#mac-map {
+    background-color: #a0d8ef !important; /* azul mar */
+}
